@@ -1,0 +1,10 @@
+=== PRODUCT CATALOG ===
+Name|Category|Price|Stock
+---|--------|-----|-----
+Laptop|Electronics|50000.00|5
+Phone|Electronics|30000.00|2
+Desk|Furniture|15000.00|8
+Organic Fertilizer|Supplies|3500.00|50
+Tomatoes|Fresh Produce|2000.00|100
+Peas|Fresh Produce|1500.00|75
+=== END OF CATALOG ===

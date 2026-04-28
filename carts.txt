@@ -1,0 +1,5 @@
+=== SHOPPING CARTS ===
+Customer|Product|Quantity|UnitPrice|Subtotal
+--------|-------|--------|---------|--------
+chadia|Desk|5|15000.00|75000.00
+=== END OF CARTS ===

@@ -1,0 +1,5 @@
+=== CUSTOMER DATABASE ===
+Name|Balance|PreferredCategories
+----|-------|-------------------
+chadia|2925000.00|electronics
+=== END OF DATABASE ===

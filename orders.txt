@@ -1,0 +1,5 @@
+=== ORDER HISTORY ===
+Customer|OrderID|Items|Total
+--------|-------|-----|-----
+chadia|ORD-1777395870890|1 items|75000.00
+=== END OF ORDERS ===
